@@ -1,4 +1,3 @@
-# CODSOFT
 # CodSoft Python Internship Projects
 
 This repository contains the tasks completed during my CodSoft Python Programming Internship.
@@ -9,6 +8,10 @@ This repository contains the tasks completed during my CodSoft Python Programmin
 
 A Python application that generates strong and random passwords using letters, numbers, and special characters.
 
+### Task 2 - Calculator
+
+A simple calculator built using Python that performs basic arithmetic operations.
+
 ## Technologies Used
 
 * Python
@@ -18,4 +21,3 @@ A Python application that generates strong and random passwords using letters, n
 ## Author
 
 Samruddhi Jain
-
